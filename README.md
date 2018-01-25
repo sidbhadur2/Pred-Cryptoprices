@@ -1,1 +1,1 @@
-# Predicting prices of various cryptocurrencies such as Bitcoin, Decred, Monero, Ethereum using ML and Deep Learning Models
+# Predicting prices of various cryptocurrencies such as Bitcoin, Ethereum and Decred using ML and Deep Learning Models
